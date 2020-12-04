@@ -20,9 +20,10 @@ A cloud engineer & digital service with four years of experience. Good at managi
 - CI/CD
 - Microservice
 
-- 🔭 I’m currently working on cathay financial holdings
-- 🌱 I’m currently learning CDK family
-- 👯 I’m good at AWS 、 GCP archi
+<br>
+🔭 I’m currently working on cathay financial holdings
+🌱 I’m currently learning CDK family
+👯 I’m good at AWS 、 GCP archi
 
 <br>
 
