@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋 I'm Cloud Wen, a cloud engineer at CathayHoldings DDT
 
-<!--
-**WEight22/WEight22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="cloud_wen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/cloud.wen.9/)
+[<img align="left" alt="cloud_Wen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cloudwen/)
+[<img align="left" alt="cloud.wen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cloudwen_1022/)
+</br>
+
+### about me
+
+A cloud engineer & digital service with four years of experience. Good at managing AWS , GCP , DevOps , K8S , Networking and customer service
+
+### I'm interested in
+
+- CDK family
+- Kubernets
+- CI/CD
+- Microservice
+
+- 🔭 I’m currently working on cathay financial holdings
+- 🌱 I’m currently learning CDK family
+- 👯 I’m good at AWS 、 GCP archi
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WEight22&show_icons=true&theme=nord&line_height=27">
