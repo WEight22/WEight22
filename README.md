@@ -11,11 +11,15 @@
 
 ### about me
 
-A cloud engineer & digital service with four years of experience. Good at managing AWS , GCP , DevOps , K8S , Networking and customer service
+A cloud engineer with five years of experience. 
+
+working at Cathay Financial Holdings DDT by using AWS & GCP. Good at DevOps, CI/CD , K8S , docker , IaC , Networking , cloud & microservice architecture
+
+Training at the Institute for Information Industry.
 
 ### I'm interested in
 
-- CDK family
+- terrform
 - Kubernets
 - CI/CD
 - Microservice
@@ -23,7 +27,7 @@ A cloud engineer & digital service with four years of experience. Good at managi
 <br>
 
 - 🔭 I’m currently working on cathay financial holdings
-- 🌱 I’m currently learning CDK family
+- 🌱 I’m currently SRE skill
 - 👯 I’m good at AWS 、 GCP archi
 
 <br>
