@@ -26,8 +26,8 @@ Training at the Institute for Information Industry.
 
 <br>
 
-- 🔭 I’m currently working on cathay financial holdings
-- 🌱 I’m currently SRE skill
+- 🔭 I’m currently working on cathay financial holdings 
+- 🌱 I’m currently focus on SRE skill
 - 👯 I’m good at AWS 、 GCP archi
 
 <br>
