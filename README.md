@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Cloud Wen, a cloud engineer at CathayHoldings DDT
+## Hi there 👋 I'm Cloud Wen, a cloud engineer at CompaxDigital
 
 ### Connect with me:
 
@@ -11,11 +11,9 @@
 
 ### about me
 
-A cloud engineer with five years of experience. 
+A cloud engineer with 6 years of experience. 
 
-working at Cathay Financial Holdings DDT by using AWS & GCP. Good at DevOps, CI/CD , K8S , docker , IaC , Networking , cloud & microservice architecture
-
-Training at the Institute for Information Industry.
+working at CompaxDigital by using AWS & GCP. Good at DevOps, CI/CD , K8S , docker , IaC , Networking , cloud & microservice architecture
 
 ### I'm interested in
 
@@ -26,7 +24,7 @@ Training at the Institute for Information Industry.
 
 <br>
 
-- 🔭 I’m currently working on cathay financial holdings 
+- 🔭 I’m currently working on CompaxDigital
 - 🌱 I’m currently focus on SRE skill
 - 👯 I’m good at AWS 、 GCP archi
 
