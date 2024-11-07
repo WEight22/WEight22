@@ -11,22 +11,22 @@
 
 ### about me
 
-A cloud engineer with 6 years of experience. 
+A platform engineer with 8 years of experience. 
 
-working at CompaxDigital by using AWS & GCP. Good at DevOps, CI/CD , K8S , docker , IaC , Networking , cloud & microservice architecture
+working at CompaxDigital by using AWS & GCP. Good at DevOps, CI/CD , kubernets , docker , IaC , Networking , cloud & microservice architecture
 
 ### I'm interested in
 
-- terrform
 - Kubernets
-- CI/CD
+- DevOps
 - Microservice
+- IaC
 
 <br>
 
 - 🔭 I’m currently working on CompaxDigital
 - 🌱 I’m currently focus on SRE skill
-- 👯 I’m good at AWS 、 GCP archi
+- 👯 I’m good at AWS 、 GCP archi and kubernets 
 
 <br>
 
