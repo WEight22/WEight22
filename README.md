@@ -29,6 +29,3 @@ working at CompaxDigital by using AWS & GCP. Good at DevOps, CI/CD , kubernets ,
 - 👯 I’m good at AWS 、 GCP archi and kubernets 
 
 <br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WEight22&show_icons=true&theme=nord&line_height=27">
